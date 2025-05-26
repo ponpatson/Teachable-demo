@@ -1,1 +1,1 @@
-# Teachable-machine
+# Teachable-demo
